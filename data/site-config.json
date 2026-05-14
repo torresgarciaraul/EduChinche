@@ -1,0 +1,31 @@
+{
+  "siteName": "EduChinche",
+  "tagline": "El espacio donde los maestros crecen juntos",
+  "description": "Blog y recursos educativos para maestros de Primaria y opositores. Comparto estrategias, materiales y reflexiones sobre educación.",
+  "authorName": "Raúl Torres",
+  "authorBio": "Maestro de Educación Primaria apasionado por la innovación, el aprendizaje basado en proyectos y la tecnología educativa. Mi misión es ayudar a otros docentes a transformar sus aulas.",
+  "authorManifesto": "Creo que la educación es la herramienta más poderosa para cambiar el mundo. EduChinche nace del deseo de compartir recursos, reflexiones y proyectos que hagan que el aprendizaje sea, ante todo, una aventura emocionante.",
+  "authorAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200&h=200&auto=format&fit=crop",
+  "twitter": "https://twitter.com/educhinche",
+  "instagram": "https://instagram.com/educhinche",
+  "youtube": "",
+  "linkedin": "",
+  "telegram": "",
+  "email": "contacto@educhinche.com",
+  "featuredProjects": [
+    {
+      "id": "reci-golf",
+      "title": "ReciGolf",
+      "description": "Un proyecto de gamificación que combina sostenibilidad y actividad física utilizando materiales reciclados.",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=800&auto=format&fit=crop",
+      "slug": "recigolf"
+    },
+    {
+      "id": "chinche-news",
+      "title": "Chinche News",
+      "description": "El periódico escolar digital donde los alumnos se convierten en periodistas de su propia realidad.",
+      "image": "https://images.unsplash.com/photo-1504711432869-efd597cdd045?q=80&w=800&auto=format&fit=crop",
+      "slug": "chinche-news"
+    }
+  ]
+}

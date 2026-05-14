@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cat-1",
+    "name": "Matemáticas",
+    "slug": "matematicas",
+    "description": "Recursos y artículos para enseñar matemáticas de forma creativa y efectiva",
+    "color": "#3B82F6",
+    "icon": "Calculator",
+    "order": 1
+  },
+  {
+    "id": "cat-2",
+    "name": "Lengua y Literatura",
+    "slug": "lengua-literatura",
+    "description": "Técnicas, actividades y recursos para el área de Lengua",
+    "color": "#8B5CF6",
+    "icon": "BookOpen",
+    "order": 2
+  },
+  {
+    "id": "cat-3",
+    "name": "Ciencias Naturales",
+    "slug": "ciencias-naturales",
+    "description": "Experimentos, proyectos y recursos para despertar la curiosidad científica",
+    "color": "#10B981",
+    "icon": "Leaf",
+    "order": 3
+  },
+  {
+    "id": "cat-4",
+    "name": "Oposiciones",
+    "slug": "oposiciones",
+    "description": "Guías, temarios y consejos para superar las oposiciones a maestro",
+    "color": "#F97316",
+    "icon": "GraduationCap",
+    "order": 4
+  },
+  {
+    "id": "cat-5",
+    "name": "TIC en el Aula",
+    "slug": "tic-aula",
+    "description": "Herramientas digitales y metodologías para integrar la tecnología",
+    "color": "#06B6D4",
+    "icon": "Monitor",
+    "order": 5
+  },
+  {
+    "id": "cat-6",
+    "name": "Metodologías",
+    "slug": "metodologias",
+    "description": "ABP, gamificación, flipped classroom y otras metodologías activas",
+    "color": "#EC4899",
+    "icon": "Lightbulb",
+    "order": 6
+  }
+]
