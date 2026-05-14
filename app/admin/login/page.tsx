@@ -26,10 +26,12 @@ export default function LoginPage() {
         router.push("/admin");
         router.refresh();
       } else {
-        toast.error("Contraseña incorrecta");
+        const data = await response.json();
+        toast.error(data.error || `Error ${response.status}: Acceso denegado`);
       }
     } catch (error) {
-      toast.error("Error al iniciar sesión");
+      console.error("Login error:", error);
+      toast.error("Error de conexión con el servidor");
     } finally {
       setLoading(false);
     }
